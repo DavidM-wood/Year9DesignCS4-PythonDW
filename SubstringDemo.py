@@ -1,5 +1,5 @@
-fName = input ("What is your first name?")
-lName = input ("What is your last nanme?")
+fName = input ("What is your first name? ")
+lName = input ("What is your last nanme? ")
 
 
 result = fName[0] + "." + lName 
