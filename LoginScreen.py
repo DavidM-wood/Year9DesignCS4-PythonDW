@@ -7,10 +7,10 @@ labUN = tk.Label(root, text = "User Name")
 labUN.pack()
 
 entUN = tk.Entry(root)
-entUN.pack()
+entUN.pack(padx =10)
 
 labPassword = tk.Label(root, text = "Password")
-labPassword.pack(padx =10)
+labPassword.pack()
 
 entPassword = tk.Entry(root)
 entPassword.pack()
